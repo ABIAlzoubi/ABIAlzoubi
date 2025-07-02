@@ -54,7 +54,3 @@ Git, GitHub, Visual Studio, VS Code, Postman, Android Studio
 
 - 📫 Email: anas.basam.525@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/anas-bassam-90784530b](https://www.linkedin.com/in/anas-bassam-90784530b)
-
----
-
-> 🧠 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
