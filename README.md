@@ -23,7 +23,7 @@ HTML, CSS, JavaScript, React, ASP.NET MVC/Core
 Flutter, Kotlin, React Native
 
 **Databases:**  
-SQL Server, Oracle, Firebase, MySQL, MSSQL
+SQL Server, Oracle, Firebase, MySQL
 
 **Tools:**  
 Git, GitHub, Visual Studio, VS Code, Postman, Android Studio
