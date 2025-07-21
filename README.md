@@ -39,7 +39,7 @@ Git, GitHub, Visual Studio, VS Code, Postman, Android Studio
 ### 🏋️ [Fit Spot – Gym Management Website](https://github.com/ABIAlzoubi/Fit-Spot.git)
 - ASP.NET MVC web app with dynamic class schedules and booking  
 - SQL Server backend for data management
-
+  
 ---
 
 ## 📜 Certifications
